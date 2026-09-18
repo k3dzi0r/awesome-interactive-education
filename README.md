@@ -1,11 +1,11 @@
 # Awesome Interactive Education 🎓🖐️
 
-Kuratorowana lista **darmowych lub sensownie darmowych** gier edukacyjnych, puzzli, układanek, symulacji i narzędzi dobrze sprawdzających się na **tablicach interaktywnych, monitorach dotykowych i komputerach w klasie**.
+Praktyczna lista **darmowych lub sensownie darmowych** gier edukacyjnych, puzzli, układanek, symulacji i narzędzi dobrze sprawdzających się na **urządzeniach dotykowych** — tabletach, monitorach interaktywnych i tablicach — oraz na komputerach w klasie.
 
 Priorytet mają zasoby:
 - po polsku lub niewymagające znajomości języka,
 - darmowe bez konta albo z użytecznym darmowym planem,
-- wygodne na dużym ekranie i dotyku,
+- wygodne w obsłudze dotykiem — zarówno na tablecie, jak i na dużym ekranie,
 - możliwe do wykorzystania w edukacji specjalnej,
 - bezpieczne i możliwie pozbawione reklam,
 - działające także offline albo open source.
@@ -19,12 +19,19 @@ Priorytet mają zasoby:
 | 🇵🇱 | polski interfejs lub dużo polskich treści |
 | 🟢 | bezpłatne |
 | 🟡 | freemium — darmowa wersja ma ograniczenia |
-| 🖐️ | szczególnie wygodne na tablicy / ekranie dotykowym |
+| 🖐️ | szczególnie wygodne w obsłudze dotykiem (tablet / monitor / tablica) |
 | 🧩 | puzzle, logika, układanki |
 | 🛠️ | możliwość tworzenia własnych ćwiczeń |
 | 💾 | działa offline lub ma aplikację offline |
 | 💻 | open source / możliwy self-hosting |
 | ♿ | szczególnie warte sprawdzenia w edukacji specjalnej |
+| 🔘 | duże cele dotykowe |
+| 👁️ | mało tekstu / mocno wizualne |
+| 🧘 | prosty interfejs / mało dystraktorów |
+| 🎚️ | regulowana trudność |
+| 🖼️ | możliwość użycia własnych obrazów / symboli |
+| 🔊 | wsparcie dźwiękiem lub głosem |
+| ∞ | brak obowiązkowej presji czasu |
 
 ## Spis treści
 
@@ -134,6 +141,42 @@ Klasyczne puzzle online. Możliwość tworzenia układanek z własnego obrazu je
 🇵🇱 🟡 🖐️ 🛠️
 
 Memory, dopasowania, mapy, krzyżówki, wykreślanki, quizy, układanie słów, dyktanda i inne aktywności.
+
+### Bystrzaki
+**[bystrzaki.com](https://bystrzaki.com/)**  
+🇵🇱 🟢 🖐️ 🧩 🎚️ 🔘 🔊 💾
+
+21 gier dla klas 1–3 z matematyki, polskiego, przyrody, logiki, edukacji społecznej i angielskiego. Trzy poziomy trudności, czytanie na głos i możliwość działania offline po dodaniu jako aplikacji PWA.
+
+### KidsOnline
+**[kidsonline.com/pl](https://kidsonline.com/pl/)**  
+🇵🇱 🟢 🖐️ 🧩 🧘
+
+Gry z matematyki, czytania, przyrody i logiki dla dzieci 2–12 lat. Bez reklam, śledzenia i opłat; uczeń może korzystać bez konta. Serwis działa na telefonach, tabletach i laptopach.
+
+### EduKidsGames
+**[edukidsgames.com/pl](https://edukidsgames.com/pl)**  
+🇵🇱 🟢 🖐️ 🧩 🔊 👁️ 🔘
+
+Gry dla dzieci 2–10 lat prowadzone głosem i obrazem. Bez reklam i rejestracji; część aktywności nie wymaga czytania.
+
+### brylka.app
+**[brylka.app](https://brylka.app/)**  
+🇵🇱 🟢 🖐️ 🎚️
+
+Interaktywne narzędzia matematyczne od podstawówki po liceum, działające w przeglądarce na telefonie i tablecie. Bez reklam, opłat i zbierania danych.
+
+### Już Umiem
+**[juzumiem.pl](https://juzumiem.pl/)**  
+🇵🇱 🟢 🖐️ 🛠️ 🧘 🎚️
+
+Ponad 450 kart i ćwiczeń od przedszkola do klasy 4. Bez logowania, reklam, opłat i limitów. Ma ćwiczenia pełnoekranowe oraz generator z własnych słów.
+
+### ARASAAC
+**[arasaac.org](https://arasaac.org/)**  
+🇵🇱 🟢 🛠️ 🖼️ 👁️
+
+Ogromna bezpłatna baza piktogramów i materiałów AAC. Szczególnie przydatna do przygotowywania własnych ćwiczeń, komunikacji i materiałów wizualnych.
 
 ### Kahoot!
 **[kahoot.com](https://kahoot.com/)**  
@@ -409,7 +452,7 @@ Open-source'owa webowa tablica edukacyjna.
 
 ## Dla edukacji specjalnej
 
-Ta sekcja nie oznacza, że dane narzędzie jest formalnie przeznaczone dla konkretnej grupy uczniów. Oznaczenie **♿** wskazuje zasoby, które warto przetestować ze względu na cechy interfejsu.
+Ta sekcja nie oznacza, że dane narzędzie jest formalnie przeznaczone dla konkretnej grupy uczniów. Oznaczenie **♿** wskazuje zasoby, które warto przetestować ze względu na cechy interfejsu. Dodatkowe znaczniki **🔘 👁️ 🧘 🎚️ 🖼️ 🔊 ∞** opisują konkretne, obserwowalne cechy. Nie są deklaracją zgodności z WCAG ani gwarancją przydatności dla konkretnego ucznia.
 
 ### Na co zwracać uwagę
 
@@ -445,8 +488,8 @@ Do katalogu powinny trafiać przede wszystkim narzędzia, które spełniają kil
 
 1. Mają realnie użyteczną darmową wersję.
 2. Działają bez instalacji albo mają darmową aplikację.
-3. Są obsługiwalne dotykiem.
-4. Nie wymagają precyzyjnego sterowania myszką.
+3. Są wygodne w obsłudze dotykiem na tablecie lub dużym ekranie.
+4. Nie wymagają precyzyjnego sterowania myszką ani hovera jako jedynego sposobu obsługi.
 5. Nie zasypują ucznia reklamami.
 6. Nie wymagają tworzenia kont uczniowskich do podstawowego użycia.
 7. Mają polski interfejs lub aktywności niewymagające języka.
