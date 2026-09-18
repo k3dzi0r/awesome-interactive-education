@@ -1,0 +1,39 @@
+name: Sprawdź linki
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "CONTRIBUTING.md"
+      - "site/**"
+      - ".lycheeignore"
+      - ".github/workflows/link-check.yml"
+  schedule:
+    - cron: "17 5 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Sprawdź linki
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-retries 2
+            --timeout 20
+            --accept 200,204,206,301,302,303,307,308,401,403,429
+            './**/*.md'
+            './site/**/*.html'
+            './site/**/*.js'
+          fail: true
+          jobSummary: true
