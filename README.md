@@ -35,6 +35,7 @@ Priorytet mają zasoby:
 
 ## Spis treści
 
+- [To Robię — autorskie, darmowe narzędzia edukacyjne](#to-robię--autorskie-darmowe-narzędzia-edukacyjne)
 - [Najlepszy zestaw startowy](#najlepszy-zestaw-startowy)
 - [Polskie i spolszczone](#polskie-i-spolszczone)
 - [Puzzle i układanki bez bariery językowej](#puzzle-i-układanki-bez-bariery-językowej)
@@ -44,6 +45,26 @@ Priorytet mają zasoby:
 - [Open source i GitHub](#open-source-i-github)
 - [Dla edukacji specjalnej](#dla-edukacji-specjalnej)
 - [Jak wybieramy zasoby](#jak-wybieramy-zasoby)
+
+## To Robię — autorskie, darmowe narzędzia edukacyjne
+
+Poniższe aplikacje są częścią [torobie.pl](https://torobie.pl). To **moje autorskie projekty**, bezpłatnie udostępnione do wykorzystania m.in. na tabletach, monitorach interaktywnych i komputerach. Linki prowadzą bezpośrednio do aplikacji, a nie do prywatnych repozytoriów źródłowych. Nie oznaczam ich jako open source (💻).
+
+| Aplikacja | Zastosowanie | Cechy |
+|---|---|---|
+| **[Kreska](https://kreska.torobie.pl)** | Grafomotoryka: ścieżki, ruchy, litery, cyfry i pisanie; także karty do druku | 🇵🇱 🟢 🖐️ 💾 ♿ 🔘 🎚️ |
+| **[Liczba](https://liczba.torobie.pl)** | Liczenie, porównywanie liczb, oś liczbowa, dodawanie i odejmowanie | 🇵🇱 🟢 🖐️ 💾 ♿ 🔘 🧘 |
+| **[Myśl](https://mysl.torobie.pl)** | Pamięć, uwaga, sekwencje, logika i klasyfikowanie | 🇵🇱 🟢 🖐️ 💾 🧩 ♿ 🧘 ∞ |
+| **[Słowo](https://slowo.torobie.pl)** | Litery, sylaby, wyrazy, zdania i czytanie ze zrozumieniem | 🇵🇱 🟢 🖐️ 💾 ♿ 🧘 |
+| **[Emocja](https://emocja.torobie.pl)** | Rozpoznawanie emocji, sytuacje i historyjki społeczne; materiały do rozmowy | 🇵🇱 🟢 🖐️ 💾 ♿ 👁️ |
+| **[Rytm](https://rytm.torobie.pl)** | Ćwiczenia rytmu, tempa i słuchu, metronom oraz własne układy | 🇵🇱 🟢 🖐️ 💾 ♿ 🔊 |
+| **[Głos](https://glos.torobie.pl)** | Tablice AAC do komunikacji wspomagającej i alternatywnej | 🇵🇱 🟢 🖐️ 💾 ♿ 🔘 🖼️ 🔊 |
+| **[Kartka](https://kartka.torobie.pl)** | Generator kart pracy do druku i PDF | 🇵🇱 🟢 🛠️ 🖼️ |
+| **[Układanka](https://ukladanka.torobie.pl)** | Puzzle z gotowych ilustracji lub własnych zdjęć, tangramy i mozaiki | 🇵🇱 🟢 🖐️ 💾 🧩 🖼️ 🎚️ |
+
+Wszystkie aplikacje są projektowane z myślą o prostocie użycia, ale dobór poziomu trudności i sposobu pracy należy do nauczyciela lub terapeuty. W szczególności treści **Emocji** wymagają przeglądu i dostosowania do konkretnego ucznia.
+
+---
 
 ## Najlepszy zestaw startowy
 
@@ -63,6 +84,8 @@ Gdy trzeba szybko przygotować komputer lub tablicę w klasie, warto zacząć od
 ---
 
 ## Polskie i spolszczone
+
+**Zobacz również:** [Kreska](https://kreska.torobie.pl), [Liczba](https://liczba.torobie.pl), [Myśl](https://mysl.torobie.pl), [Słowo](https://slowo.torobie.pl), [Emocja](https://emocja.torobie.pl), [Rytm](https://rytm.torobie.pl), [Głos](https://glos.torobie.pl), [Kartka](https://kartka.torobie.pl) i [Układanka](https://ukladanka.torobie.pl) — polskojęzyczne projekty opisane w [sekcji To Robię](#to-robię--autorskie-darmowe-narzędzia-edukacyjne).
 
 ### Zintegrowana Platforma Edukacyjna
 **[zpe.gov.pl](https://zpe.gov.pl/)**  
@@ -187,6 +210,8 @@ Najlepszy głównie w modelu „tablica + urządzenia uczniów”, ale przydatny
 ---
 
 ## Puzzle i układanki bez bariery językowej
+
+**Z rodziny To Robię:** [Układanka](https://ukladanka.torobie.pl) (puzzle, tangramy, mozaiki) oraz [Myśl](https://mysl.torobie.pl) (logika i sekwencje).
 
 ### Easy Jigsaw Puzzles
 **[easyjigsawpuzzles.com](https://easyjigsawpuzzles.com/)**  
@@ -322,6 +347,8 @@ Dodawanie, mnożenie, flagi, memory, sudoku, labirynty, wzory, szachy i 2048.
 
 ## Programy offline
 
+**Z rodziny To Robię:** [Kreska](https://kreska.torobie.pl), [Liczba](https://liczba.torobie.pl), [Myśl](https://mysl.torobie.pl), [Słowo](https://slowo.torobie.pl), [Emocja](https://emocja.torobie.pl), [Rytm](https://rytm.torobie.pl), [Głos](https://glos.torobie.pl) i [Układanka](https://ukladanka.torobie.pl) mają tryb offline PWA (po pierwszym załadowaniu).
+
 ### GCompris
 **[gcompris.net](https://gcompris.net/)**  
 🇵🇱 🟢 🖐️ 💾 💻 ♿
@@ -367,6 +394,8 @@ Aplikacje do geometrii, algebry, grafów, 3D i innych działów matematyki.
 ---
 
 ## Tworzenie własnych ćwiczeń
+
+**Z rodziny To Robię:** [Kartka](https://kartka.torobie.pl) — własne karty pracy; [Układanka](https://ukladanka.torobie.pl) — puzzle z własnego zdjęcia; [Rytm](https://rytm.torobie.pl) — układy w Studiu.
 
 | Narzędzie | Typy aktywności | Darmowo | Offline |
 |---|---|---:|---:|
@@ -451,6 +480,8 @@ Open-source'owa webowa tablica edukacyjna.
 ---
 
 ## Dla edukacji specjalnej
+
+**Z rodziny To Robię:** [Głos](https://glos.torobie.pl) (AAC), [Kreska](https://kreska.torobie.pl) (grafomotoryka), [Myśl](https://mysl.torobie.pl) (procesy poznawcze), [Emocja](https://emocja.torobie.pl) (kompetencje emocjonalno-społeczne), [Liczba](https://liczba.torobie.pl) i [Słowo](https://slowo.torobie.pl) (ćwiczenia edukacyjne).
 
 Ta sekcja nie oznacza, że dane narzędzie jest formalnie przeznaczone dla konkretnej grupy uczniów. Oznaczenie **♿** wskazuje zasoby, które warto przetestować ze względu na cechy interfejsu. Dodatkowe znaczniki **🔘 👁️ 🧘 🎚️ 🖼️ 🔊 ∞** opisują konkretne, obserwowalne cechy. Nie są deklaracją zgodności z WCAG ani gwarancją przydatności dla konkretnego ucznia.
 
